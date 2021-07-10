@@ -1,0 +1,1 @@
+SELECT * FROM tb_personagem where defesa < 2000 and defesa > 1000;

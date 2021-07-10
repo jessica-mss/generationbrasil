@@ -1,0 +1,1 @@
+SELECT * FROM tb_personagem where ataque > 2000;
